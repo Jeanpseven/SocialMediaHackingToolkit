@@ -337,4 +337,11 @@ Reach me for commissioned programs or collab on:
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=redkatz/socialmediahackingtoolkit&type=Date)](https://star-history.com/#redkatz/socialmediahackingtoolkit&Date)
+<a href="https://star-history.com/#Jeanpseven/socialmediahackingtoolkit&Date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=redkatz/socialmediahackingtoolkit&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=redkatz/socialmediahackingtoolkit&type=Date" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=redkatz/socialmediahackingtoolkit&type=Date" />
+  </picture>
+</a>
+
