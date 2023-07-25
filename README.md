@@ -5,13 +5,14 @@
                             ██║  ██║██╔══╝  ██║  ██║╚════██║██╔══╝  ██║     
                             ██████╔╝███████╗██████╔╝███████║███████╗╚██████╗
                             ╚═════╝ ╚══════╝╚═════╝ ╚══════╝╚══════╝ ╚═════╝
-                                                
-function clear() removed 
+<div align="center">                                              
+<b>function clear() removed </b>
 lol we don`t need a clear on bruteforce script
 we will be like:
 -uuh i found the password
 *script clear function*
 -where is my pass??????
+</div>
 
  <h6><p align="center">
     perform different types of <a href="https://github.com/RedKatz/SocialMediaHackingToolkit/blob/main/cmd/supported-attack.txt">attacks</a> on many <a href="https://github.com/RedKatz/SocialMediaHackingToolkit/blob/main/cmd/supported-social.txt">social media</a>
