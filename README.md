@@ -40,6 +40,12 @@ The <b>SocialMediaHackingToolkit</b> on GitHub is for <i>educational purposes</i
 | Windows 7   |           |    X       |          
 | Windows 10+ |     X      |           |          
 | Termux |     X      |           |          
+function clear() removed 
+lol we don`t need a clear on bruteforce script
+we will be like:
+-uuh i found the password
+*script clear function*
+-where is my pass??????
 
 </div>
 
