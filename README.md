@@ -1,10 +1,10 @@
 
-██████╗ ███████╗██████╗ ███████╗███████╗ ██████╗
-██╔══██╗██╔════╝██╔══██╗██╔════╝██╔════╝██╔════╝
-██║  ██║█████╗  ██║  ██║███████╗█████╗  ██║     
-██║  ██║██╔══╝  ██║  ██║╚════██║██╔══╝  ██║     
-██████╔╝███████╗██████╔╝███████║███████╗╚██████╗
-╚═════╝ ╚══════╝╚═════╝ ╚══════╝╚══════╝ ╚═════╝
+                            ██████╗ ███████╗██████╗ ███████╗███████╗ ██████╗
+                            ██╔══██╗██╔════╝██╔══██╗██╔════╝██╔════╝██╔════╝
+                            ██║  ██║█████╗  ██║  ██║███████╗█████╗  ██║     
+                            ██║  ██║██╔══╝  ██║  ██║╚════██║██╔══╝  ██║     
+                            ██████╔╝███████╗██████╔╝███████║███████╗╚██████╗
+                            ╚═════╝ ╚══════╝╚═════╝ ╚══════╝╚══════╝ ╚═════╝
                                                 
 
  <h6><p align="center">
@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/release-v0.3.2-141449" alt=""/>
   <img src="https://img.shields.io/badge/written in-python | php-141449" alt=""/>
   <img src="https://img.shields.io/badge/author-RedKatz-141449" alt=""/>
-  <img src="https://img.shields.io/badge/Modder-Wrench-141449" alt=""/>
+  <img src="https://img.shields.io/badge/Modder-Wrench(Jean)-141449" alt=""/>
  <h6><p align="center" style="color:yellow">
     <i>please read at least the section regarding <a href="https://github.com/RedKatz/SocialMediaHackingToolkit#Trustability">trustability</a>
 </i></a>
