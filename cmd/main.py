@@ -1,8 +1,27 @@
 from utils import *
 from rich.console import Console
 import platform
+
 console = Console()
 
+def check_and_install_libraries():
+    try:
+        with open('requirements.txt') as f:
+            required_libraries = f.read().splitlines()
+    except FileNotFoundError:
+        console.print("Arquivo 'requirements.txt' não encontrado. Certifique-se de que o arquivo existe no mesmo diretório que este script.")
+        sys.exit(1)
+
+    try:
+        for lib in required_libraries:
+            subprocess.check_call([sys.executable, "-m", "pip", "install", lib])
+    except subprocess.CalledProcessError:
+        console.print("Falha ao instalar as bibliotecas. Verifique sua conexão com a internet e tente novamente.")
+        sys.exit(1)
+    console.print("Bibliotecas instaladas com sucesso!")
+
+
+check_and_install_libraries()
 # print ascii art & loading screen
 start()
 # select social media
