@@ -7,11 +7,7 @@
                             ╚═════╝ ╚══════╝╚═════╝ ╚══════╝╚══════╝ ╚═════╝
 <div align="center">                                              
 <b>function clear() removed </b>
-lol we don`t need a clear on bruteforce script
-we will be like:
--uuh i found the password
-*script clear function*
--where is my pass??????
+lol we don`t need a clear on bruteforce script\nwe will be like:\n-uuh i found the password\n*script clear function*\n-where is my pass??????
 </div>
 
  <h6><p align="center">
