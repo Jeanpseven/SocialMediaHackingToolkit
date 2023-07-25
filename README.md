@@ -6,6 +6,12 @@
                             ██████╔╝███████╗██████╔╝███████║███████╗╚██████╗
                             ╚═════╝ ╚══════╝╚═════╝ ╚══════╝╚══════╝ ╚═════╝
                                                 
+function clear() removed 
+lol we don`t need a clear on bruteforce script
+we will be like:
+-uuh i found the password
+*script clear function*
+-where is my pass??????
 
  <h6><p align="center">
     perform different types of <a href="https://github.com/RedKatz/SocialMediaHackingToolkit/blob/main/cmd/supported-attack.txt">attacks</a> on many <a href="https://github.com/RedKatz/SocialMediaHackingToolkit/blob/main/cmd/supported-social.txt">social media</a>
@@ -40,13 +46,6 @@ The <b>SocialMediaHackingToolkit</b> on GitHub is for <i>educational purposes</i
 | Windows 7   |           |    X       |          
 | Windows 10+ |     X      |           |          
 | Termux |     X      |           |          
-function clear() removed 
-lol we don`t need a clear on bruteforce script
-we will be like:
--uuh i found the password
-*script clear function*
--where is my pass??????
-
 </div>
 
 
