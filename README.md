@@ -1,18 +1,30 @@
 
 <div align="center">
   <pre style="display: inline-block; border: 1px solid; padding: 10px;">
- ________  ___ _   _ 
-/  ___|  \/  || | | |
-\ `--.| .  . || |_| |
- `--. \ |\/| ||  _  |
-/\__/ / |  | || | | |
-\____/\_|  |_/\_| |_/
-   
+
+ $$$$$$\  $$\      $$\ $$\   $$\ 
+$$  __$$\ $$$\    $$$ |$$ |  $$ |
+$$ /  \__|$$$$\  $$$$ |$$ |  $$ |
+\$$$$$$\  $$\$$\$$ $$ |$$$$$$$$ |
+ \____$$\ $$ \$$$  $$ |$$  __$$ |
+$$\   $$ |$$ |\$  /$$ |$$ |  $$ |
+\$$$$$$  |$$ | \_/ $$ |$$ |  $$ |
+ \______/ \__|     \__|\__|  \__|
+                                 
+ 
+ _______   ________  _______    ______   ________   ______  
+|       \ |        \|       \  /      \ |        \ /      \ 
+| $$$$$$$\| $$$$$$$$| $$$$$$$\|  $$$$$$\| $$$$$$$$|  $$$$$$\
+| $$  | $$| $$__    | $$  | $$| $$___\$$| $$__    | $$   \$$
+| $$  | $$| $$  \   | $$  | $$ \$$    \ | $$  \   | $$      
+| $$  | $$| $$$$$   | $$  | $$ _\$$$$$$\| $$$$$   | $$   __ 
+| $$__/ $$| $$_____ | $$__/ $$|  \__| $$| $$_____ | $$__/  \
+| $$    $$| $$     \| $$    $$ \$$    $$| $$     \ \$$    $$
+ \$$$$$$$  \$$$$$$$$ \$$$$$$$   \$$$$$$  \$$$$$$$$  \$$$$$$ 
+                           
 Social Media Hacking Toolkit
   </pre>
 </div>
-
- 
 
  <h6><p align="center">
     perform different types of <a href="https://github.com/RedKatz/SocialMediaHackingToolkit/blob/main/cmd/supported-attack.txt">attacks</a> on many <a href="https://github.com/RedKatz/SocialMediaHackingToolkit/blob/main/cmd/supported-social.txt">social media</a>
